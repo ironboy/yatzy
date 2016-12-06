@@ -1,2 +1,3 @@
 # yatzy
-A yatzy game with Swedish rules in JavaScript
+A yatzy game with Swedish rules in JavaScript. 
+It's gonna be amazingly cool.
